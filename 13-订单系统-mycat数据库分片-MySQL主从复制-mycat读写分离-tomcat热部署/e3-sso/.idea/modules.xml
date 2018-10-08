@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/e3-sso.iml" filepath="$PROJECT_DIR$/e3-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-sso-interface/e3-sso-interface.iml" filepath="$PROJECT_DIR$/e3-sso-interface/e3-sso-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-sso-service/e3-sso-service.iml" filepath="$PROJECT_DIR$/e3-sso-service/e3-sso-service.iml" />
+    </modules>
+  </component>
+</project>

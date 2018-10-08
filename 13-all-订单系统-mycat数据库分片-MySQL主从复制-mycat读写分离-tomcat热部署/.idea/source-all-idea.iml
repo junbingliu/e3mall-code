@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/e3-sso-web/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-sso/e3-sso-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-sso/e3-sso-interface/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-search-web/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-search/e3-search-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-search/e3-search-interface/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-portal-web/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-order-web/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-order/e3-order-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-order/e3-order-interface/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager-web/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager/e3-manager-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager/e3-manager-pojo/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager/e3-manager-interface/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager/e3-manager-dao/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-item-web/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-content/e3-content-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-content/e3-content-interface/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-common/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-cart-web/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-cart/e3-cart-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-cart/e3-cart-interface/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-cart/e3-cart-interface/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-cart/e3-cart-service/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-cart-web/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-common/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-content/e3-content-interface/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-content/e3-content-service/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-item-web/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager/e3-manager-dao/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager/e3-manager-interface/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager/e3-manager-pojo/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager/e3-manager-service/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager-web/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-order/e3-order-interface/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-order/e3-order-service/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-order-web/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-portal-web/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-search/e3-search-interface/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-search/e3-search-service/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-search-web/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-sso/e3-sso-interface/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-sso/e3-sso-service/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-sso-web/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-sso-web/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-sso/e3-sso-service/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-sso/e3-sso-interface/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-search-web/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-search/e3-search-service/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-search/e3-search-interface/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-portal-web/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-order-web/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-order/e3-order-service/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-order/e3-order-interface/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager-web/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager/e3-manager-service/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager/e3-manager-pojo/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager/e3-manager-interface/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager/e3-manager-dao/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-item-web/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-content/e3-content-service/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-content/e3-content-interface/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-common/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-cart-web/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-cart/e3-cart-service/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-cart/e3-cart-interface/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-cart/e3-cart-interface/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-cart/e3-cart-service/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-cart-web/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-common/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-content/e3-content-interface/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-content/e3-content-service/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-item-web/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager/e3-manager-dao/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager/e3-manager-interface/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager/e3-manager-pojo/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager/e3-manager-service/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-manager-web/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-order/e3-order-interface/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-order/e3-order-service/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-order-web/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-portal-web/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-search/e3-search-interface/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-search/e3-search-service/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-search-web/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-sso/e3-sso-interface/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-sso/e3-sso-service/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/e3-sso-web/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

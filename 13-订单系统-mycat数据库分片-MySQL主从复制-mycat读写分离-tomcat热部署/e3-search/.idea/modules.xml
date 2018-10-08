@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/e3-search.iml" filepath="$PROJECT_DIR$/e3-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-search-interface/e3-search-interface.iml" filepath="$PROJECT_DIR$/e3-search-interface/e3-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-search-service/e3-search-service.iml" filepath="$PROJECT_DIR$/e3-search-service/e3-search-service.iml" />
+    </modules>
+  </component>
+</project>

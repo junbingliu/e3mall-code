@@ -1,0 +1,4 @@
+功能实现：
+Linux搭建zookeeper和dubbo监控中心。
+zookeeper注册服务，dubbo发布或引用服务，实现工程之间的服务调用。
+pagehelper工程实现数据库分页查询，后台商品分页展示。

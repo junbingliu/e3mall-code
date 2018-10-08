@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/e3-order.iml" filepath="$PROJECT_DIR$/e3-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-order-interface/e3-order-interface.iml" filepath="$PROJECT_DIR$/e3-order-interface/e3-order-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-order-service/e3-order-service.iml" filepath="$PROJECT_DIR$/e3-order-service/e3-order-service.iml" />
+    </modules>
+  </component>
+</project>

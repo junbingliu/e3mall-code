@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/e3-cart.iml" filepath="$PROJECT_DIR$/e3-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-cart-interface/e3-cart-interface.iml" filepath="$PROJECT_DIR$/e3-cart-interface/e3-cart-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-cart-service/e3-cart-service.iml" filepath="$PROJECT_DIR$/e3-cart-service/e3-cart-service.iml" />
+    </modules>
+  </component>
+</project>
